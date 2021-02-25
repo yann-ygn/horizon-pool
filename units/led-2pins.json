@@ -5,13 +5,13 @@
         "09552127-78eb-44b7-b6eb-38cc164badb5": {
             "direction": "passive",
             "names": [],
-            "primary_name": "K",
+            "primary_name": "2",
             "swap_group": 0
         },
         "da62449c-1c9b-4d92-b968-41d17eb71605": {
             "direction": "passive",
             "names": [],
-            "primary_name": "A",
+            "primary_name": "1",
             "swap_group": 0
         }
     },

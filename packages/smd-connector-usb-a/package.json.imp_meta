@@ -64,7 +64,7 @@
                 "visible": false
             },
             "40": {
-                "display_mode": "outline",
+                "display_mode": "hatch",
                 "visible": false
             },
             "50": {

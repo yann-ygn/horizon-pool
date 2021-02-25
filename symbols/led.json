@@ -173,10 +173,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": false,
-            "orientation": "left",
-            "pad_visible": true,
+            "orientation": "right",
+            "pad_visible": false,
             "position": [
-                -2500000,
+                3750000,
                 0
             ]
         },
@@ -190,10 +190,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": false,
-            "orientation": "right",
-            "pad_visible": true,
+            "orientation": "left",
+            "pad_visible": false,
             "position": [
-                3750000,
+                -3750000,
                 0
             ]
         }

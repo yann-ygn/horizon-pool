@@ -7,9 +7,14 @@
             "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
         }
     },
-    "tags": ["passive", "resistor", "generic"],
-    "name": "Two-terminal resistor",
+    "manufacturer": "",
+    "name": "Resistor",
     "prefix": "R",
+    "tags": [
+        "generic",
+        "passive",
+        "resistor"
+    ],
     "type": "entity",
     "uuid": "3ce770af-7be0-4f72-b2af-2c8010911aaf"
 }

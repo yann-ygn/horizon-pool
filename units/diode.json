@@ -1,20 +1,20 @@
 {
     "manufacturer": "",
-    "name": "Capacitor",
+    "name": "Diode",
     "pins": {
-        "29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+        "c843be6b-4356-46e1-abba-2966a4332a27": {
             "direction": "passive",
             "names": [],
             "primary_name": "2",
-            "swap_group": 1
+            "swap_group": 0
         },
-        "852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+        "f584d8b9-86c0-41d5-bda9-72b0c0d84fb6": {
             "direction": "passive",
             "names": [],
             "primary_name": "1",
-            "swap_group": 1
+            "swap_group": 0
         }
     },
     "type": "unit",
-    "uuid": "3363f7ef-c8bf-4c29-9d80-2551b4551806"
+    "uuid": "8127283e-1dc4-4aa3-aaa6-15a1f3676ece"
 }

@@ -5,13 +5,13 @@
         "1e7cd34f-86db-4b34-9e0b-c276756301ab": {
             "direction": "passive",
             "names": [],
-            "primary_name": "P",
+            "primary_name": "-",
             "swap_group": 0
         },
         "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6": {
             "direction": "passive",
             "names": [],
-            "primary_name": "N",
+            "primary_name": "+",
             "swap_group": 0
         }
     },
