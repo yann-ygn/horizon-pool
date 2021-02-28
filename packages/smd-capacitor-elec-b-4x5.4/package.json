@@ -137,8 +137,8 @@
     "models": {
         "014fb735-3d50-4b69-8818-78e46ffc9d8f": {
             "filename": "3d_models/C_ELEC_B_4_54.step",
-            "pitch": 0,
-            "roll": 49152,
+            "pitch": 32768,
+            "roll": 0,
             "x": 0,
             "y": 0,
             "yaw": 0,

@@ -119,9 +119,9 @@
     "models": {
         "052d6252-f399-4ba3-9349-f61a9949721d": {
             "filename": "3d_models/C_ELEC_D_63_54.STEP",
-            "pitch": 0,
+            "pitch": 32768,
             "roll": 0,
-            "x": 100000,
+            "x": 0,
             "y": 0,
             "yaw": 0,
             "z": 0
