@@ -127,14 +127,14 @@
             "name": "2",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 900000,
-                "pad_width": 800000
+                "pad_height": 1000000,
+                "pad_width": 900000
             },
             "placement": {
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    -1000000,
+                    -1100000,
                     -950000
                 ]
             }
@@ -143,14 +143,14 @@
             "name": "3",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 900000,
-                "pad_width": 800000
+                "pad_height": 1000000,
+                "pad_width": 900000
             },
             "placement": {
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    1000000,
+                    1100000,
                     0
                 ]
             }
@@ -159,14 +159,14 @@
             "name": "1",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
-                "pad_height": 900000,
-                "pad_width": 800000
+                "pad_height": 1000000,
+                "pad_width": 900000
             },
             "placement": {
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    -1000000,
+                    -1100000,
                     950000
                 ]
             }
@@ -186,7 +186,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1725000,
+                        -1875000,
                         -1700000
                     ],
                     "type": "line"
@@ -198,7 +198,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1725000,
+                        1875000,
                         -1700000
                     ],
                     "type": "line"
@@ -210,7 +210,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1725000,
+                        1875000,
                         1700000
                     ],
                     "type": "line"
@@ -222,7 +222,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1725000,
+                        -1875000,
                         1700000
                     ],
                     "type": "line"

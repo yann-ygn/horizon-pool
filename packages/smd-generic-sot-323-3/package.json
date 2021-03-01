@@ -186,7 +186,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1825000,
+                        -1725000,
                         -1350000
                     ],
                     "type": "line"
@@ -198,7 +198,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1825000,
+                        1725000,
                         -1350000
                     ],
                     "type": "line"
@@ -210,7 +210,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1825000,
+                        1725000,
                         1350000
                     ],
                     "type": "line"
@@ -222,7 +222,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1825000,
+                        -1725000,
                         1350000
                     ],
                     "type": "line"
