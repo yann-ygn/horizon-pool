@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "MC0603N220J500CT"
+        "GRM1885C1H102JA01D"
     ],
     "datasheet": [
         false,
@@ -9,14 +9,14 @@
     ],
     "description": [
         false,
-        "CAPACITOR MLCC 22PF C0G/NP0 0603 50V ±5%"
+        "CAPACITOR MLCC 1NF C0G/NP0 0603 50V ±5%"
     ],
     "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Multicomp"
+        "Murata"
     ],
     "model": "b8e8e7bb-2f86-4611-8033-7aecd8aa4b77",
     "package": "da8061cd-7ed9-4788-a76a-968f861d8e6c",
@@ -33,9 +33,9 @@
     "parametric": {},
     "tags": [],
     "type": "part",
-    "uuid": "b781c400-6f51-45eb-9aef-8ac20b823547",
+    "uuid": "bd9581f3-2cfb-475f-9dcb-76e2b1712366",
     "value": [
         false,
-        "22p"
+        "1n"
     ]
 }

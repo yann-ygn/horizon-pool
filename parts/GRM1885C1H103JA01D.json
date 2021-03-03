@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "CAPACITOR MLCC 10n C0G/NP0 0603 50V ±5%"
+        "CAPACITOR MLCC 10NF C0G/NP0 0603 50V ±5%"
     ],
     "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
     "inherit_model": false,
