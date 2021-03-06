@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "MCVVT025M470EA1L"
+        "EEEFC1H2R2R"
     ],
     "datasheet": [
         false,
@@ -9,23 +9,23 @@
     ],
     "description": [
         false,
-        "CAPACITOR ALUM 47UF 25V ±20%"
+        "CAPACITOR ALUM 2.2UF 50V LESR ±20%"
     ],
     "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Multicomp"
+        "Panasonic"
     ],
-    "model": "052d6252-f399-4ba3-9349-f61a9949721d",
-    "package": "7189e13e-3c42-4660-ad51-8c044b6395ff",
+    "model": "014fb735-3d50-4b69-8818-78e46ffc9d8f",
+    "package": "8788d11a-e385-42a5-aa9b-44aa689245d8",
     "pad_map": {
-        "39dc34da-b7d2-43e0-b4f2-c93a7b8a9d9f": {
+        "2c796120-073c-4504-9663-72805c246546": {
             "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
             "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
         },
-        "5fa85fad-290a-4c34-af25-3e2b8273073f": {
+        "ff00f8ad-52a5-44bf-8bcc-5459d8e16b8c": {
             "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
             "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
         }
@@ -33,9 +33,9 @@
     "parametric": {},
     "tags": [],
     "type": "part",
-    "uuid": "36f61ec3-23db-41ba-b2dc-14175c77444a",
+    "uuid": "a3f731a9-ff9a-4475-ac81-7f20d63482ea",
     "value": [
         false,
-        "47u"
+        "2.2u"
     ]
 }
