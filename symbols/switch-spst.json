@@ -142,7 +142,7 @@
             "width": 0
         }
     },
-    "name": "Switch SPDT",
+    "name": "Switch SPST",
     "pins": {
         "538308f7-7b68-49b3-8650-992660e58f5d": {
             "decoration": {
