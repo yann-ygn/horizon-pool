@@ -161,23 +161,6 @@
     "polygons": {},
     "text_placements": {},
     "texts": {
-        "d1b6949c-8697-4a84-95b1-cffa68c907c1": {
-            "font": "simplex",
-            "from_smash": false,
-            "layer": 0,
-            "origin": "center",
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    -3750000,
-                    -10000000
-                ]
-            },
-            "size": 1500000,
-            "text": "$VALUE",
-            "width": 0
-        },
         "e3699714-98f0-49c1-93d1-a002f5436c60": {
             "font": "simplex",
             "from_smash": false,
