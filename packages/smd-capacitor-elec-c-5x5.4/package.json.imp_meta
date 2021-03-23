@@ -64,11 +64,11 @@
                 "visible": false
             },
             "40": {
-                "display_mode": "outline",
+                "display_mode": "hatch",
                 "visible": true
             },
             "50": {
-                "display_mode": "outline",
+                "display_mode": "hatch",
                 "visible": true
             },
             "60": {
