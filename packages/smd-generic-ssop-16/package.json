@@ -481,7 +481,25 @@
         }
     },
     "tags": [],
-    "texts": {},
+    "texts": {
+        "e7adb827-fe60-4188-b005-1ed964c3e9a7": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1170000,
+                    3430000
+                ]
+            },
+            "size": 800000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
     "type": "package",
     "uuid": "01de1b38-0ceb-49b9-892a-665e9373683c"
 }
