@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "CRCW0603150KFKEA"
+        "CRCW060347R0FKEA"
     ],
     "datasheet": [
         false,
@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "RESISTOR 150K OHM 1% 1/10W 0603"
+        "RESISTOR 47 OHM 1% 1/10W 0603"
     ],
     "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
     "inherit_model": false,
@@ -33,9 +33,9 @@
     "parametric": {},
     "tags": [],
     "type": "part",
-    "uuid": "8c8d8873-0a00-46a1-ac84-9605a12dacad",
+    "uuid": "14acf0e7-445c-4c19-969f-15fb5360663f",
     "value": [
         false,
-        "150k"
+        "47R"
     ]
 }
