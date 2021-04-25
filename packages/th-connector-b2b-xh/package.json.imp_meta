@@ -64,16 +64,16 @@
                 "visible": false
             },
             "40": {
-                "display_mode": "outline",
+                "display_mode": "fill",
                 "visible": true
             },
             "50": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "60": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             }
         }
     }
