@@ -237,7 +237,25 @@
         }
     },
     "tags": [],
-    "texts": {},
+    "texts": {
+        "e2d53d1a-fc5d-45ed-b5bd-f31f711323ef": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1524000,
+                    7112000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
     "type": "package",
     "uuid": "e4ea2991-a5e1-475b-a146-cb0a69b5edcb"
 }
