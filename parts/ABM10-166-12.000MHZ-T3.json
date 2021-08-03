@@ -38,7 +38,10 @@
             "pin": "3f97f5ae-f2bf-4df6-9d6d-52dbb94eac6e"
         }
     },
-    "parametric": {},
+    "parametric": {
+        "price": "0.382",
+        "table": "general"
+    },
     "tags": [],
     "type": "part",
     "uuid": "e2f5ee1b-2c7d-4a5e-97b1-6208a20b4ae7",

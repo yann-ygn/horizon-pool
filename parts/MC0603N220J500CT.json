@@ -30,7 +30,14 @@
             "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
         }
     },
-    "parametric": {},
+    "parametric": {
+        "price": "0.0286",
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "2.2e-11",
+        "wvdc": "50"
+    },
     "tags": [],
     "type": "part",
     "uuid": "b781c400-6f51-45eb-9aef-8ac20b823547",

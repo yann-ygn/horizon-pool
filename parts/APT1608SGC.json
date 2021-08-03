@@ -30,7 +30,10 @@
             "pin": "09552127-78eb-44b7-b6eb-38cc164badb5"
         }
     },
-    "parametric": {},
+    "parametric": {
+        "price": "0.055",
+        "table": "general"
+    },
     "tags": [],
     "type": "part",
     "uuid": "f5015dfb-27da-4779-a5d7-0433cfbabb8a",

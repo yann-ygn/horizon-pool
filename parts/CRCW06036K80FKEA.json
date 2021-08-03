@@ -30,7 +30,13 @@
             "pin": "6a44037c-65e2-4876-9359-42890048841d"
         }
     },
-    "parametric": {},
+    "parametric": {
+        "pmax": "0.1",
+        "price": "0.0209",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "6800"
+    },
     "tags": [],
     "type": "part",
     "uuid": "7d1837e5-8c1c-4d53-ad7d-9534564eaeb3",
