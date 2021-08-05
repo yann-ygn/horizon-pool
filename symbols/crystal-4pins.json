@@ -4,50 +4,50 @@
     "junctions": {
         "1a42e2d4-03d6-4332-b974-e1aeb1d2d1fa": {
             "position": [
-                2000000,
-                -750000
+                -750000,
+                -2000000
             ]
         },
         "652faf30-39df-423f-a167-0128f98b10af": {
             "position": [
-                -2000000,
-                -750000
+                -750000,
+                2000000
             ]
         },
         "95467ccb-a623-4eec-8d48-d82f58da9613": {
             "position": [
-                -1500000,
-                1250000
+                1250000,
+                1500000
             ]
         },
         "a9f5bd3a-2935-4eb9-ad63-68ebb3d39ef5": {
             "position": [
-                2000000,
-                750000
+                750000,
+                -2000000
             ]
         },
         "b39dc39a-08e4-48e7-b1e8-5e7e6ce7c0be": {
             "position": [
-                -2000000,
-                750000
+                750000,
+                2000000
             ]
         },
         "b8256d6d-754b-468a-b159-868537b6559c": {
             "position": [
-                -1500000,
-                -1250000
+                -1250000,
+                1500000
             ]
         },
         "ee38d0b0-2838-49d0-8ef1-17245f5211bd": {
             "position": [
-                1500000,
-                1250000
+                1250000,
+                -1500000
             ]
         },
         "fad80aa7-6db3-40c8-b262-4d5ca5d4a721": {
             "position": [
-                1500000,
-                -1250000
+                -1250000,
+                -1500000
             ]
         }
     },
@@ -101,11 +101,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": false,
-            "orientation": "down",
+            "orientation": "left",
             "pad_visible": false,
             "position": [
-                0,
-                -3750000
+                -3750000,
+                0
             ]
         },
         "542da35a-c76f-4b3e-92d4-fbce459f726f": {
@@ -118,11 +118,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": false,
-            "orientation": "up",
+            "orientation": "right",
             "pad_visible": false,
             "position": [
-                0,
-                3750000
+                3750000,
+                0
             ]
         }
     },
@@ -138,29 +138,12 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2500000,
-                    2500000
+                    -3750000,
+                    3750000
                 ]
             },
             "size": 1500000,
             "text": "$REFDES",
-            "width": 0
-        },
-        "b8f6230c-6ee8-49fe-a18d-393f77a11f21": {
-            "font": "simplex",
-            "from_smash": false,
-            "layer": 0,
-            "origin": "center",
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    2500000,
-                    -2500000
-                ]
-            },
-            "size": 1500000,
-            "text": "$VALUE",
             "width": 0
         }
     },
