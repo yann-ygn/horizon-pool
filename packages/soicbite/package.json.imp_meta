@@ -45,11 +45,11 @@
             },
             "0": {
                 "display_mode": "fill",
-                "visible": false
+                "visible": true
             },
             "10": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "100": {
                 "display_mode": "outline",
