@@ -1,12 +1,4 @@
 {
-    "grid_settings": {
-        "mode": "square",
-        "origin_x": 0,
-        "origin_y": 0,
-        "spacing_square": 500000,
-        "spacing_x": 1250000,
-        "spacing_y": 1250000
-    },
     "grid_spacing": 500000,
     "layer_display": {
         "layer_opacity": 50.0,
