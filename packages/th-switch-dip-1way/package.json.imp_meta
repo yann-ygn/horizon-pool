@@ -48,8 +48,8 @@
                 "visible": true
             },
             "20": {
-                "display_mode": "fill_only",
-                "visible": true
+                "display_mode": "fill",
+                "visible": false
             },
             "30": {
                 "display_mode": "fill",

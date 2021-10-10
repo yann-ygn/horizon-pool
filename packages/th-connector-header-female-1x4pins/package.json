@@ -2,6 +2,22 @@
     "arcs": {},
     "default_model": "ce3f666f-d74c-47b5-be2e-2c0dcbcab898",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1250000,
+                1250000
+            ],
+            "spacing_square": 25000
+        },
+        "grids": {}
+    },
     "junctions": {
         "366bd424-aaa2-4e99-9ac8-7014cadd249a": {
             "position": [
@@ -134,10 +150,8 @@
             }
         }
     },
-    "parameter_program": "10.160mm 2.540mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
-    "parameter_set": {
-        "courtyard_expansion": 50000
-    },
+    "parameter_program": "",
+    "parameter_set": {},
     "polygons": {
         "4bfcb8d8-6189-4155-9807-338e64730255": {
             "layer": 50,
@@ -242,60 +256,6 @@
                     "position": [
                         5080000,
                         -1270000
-                    ],
-                    "type": "line"
-                }
-            ]
-        },
-        "fb404207-c4b9-4fde-b582-ee23a180da6a": {
-            "layer": 60,
-            "parameter_class": "courtyard",
-            "vertices": [
-                {
-                    "arc_center": [
-                        0,
-                        0
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -5130000,
-                        -1320000
-                    ],
-                    "type": "line"
-                },
-                {
-                    "arc_center": [
-                        0,
-                        0
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -5130000,
-                        1320000
-                    ],
-                    "type": "line"
-                },
-                {
-                    "arc_center": [
-                        0,
-                        0
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        5130000,
-                        1320000
-                    ],
-                    "type": "line"
-                },
-                {
-                    "arc_center": [
-                        0,
-                        0
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        5130000,
-                        -1320000
                     ],
                     "type": "line"
                 }

@@ -2,6 +2,22 @@
     "arcs": {},
     "default_model": "ac5d4cb0-2665-4030-867c-cc1af1d44e75",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1250000,
+                1250000
+            ],
+            "spacing_square": 50000
+        },
+        "grids": {}
+    },
     "junctions": {
         "3f46180c-007a-47ef-b1d0-794ec7ae70fa": {
             "position": [
@@ -150,10 +166,8 @@
             }
         }
     },
-    "parameter_program": "3.140mm 13.300mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
-    "parameter_set": {
-        "courtyard_expansion": 10000
-    },
+    "parameter_program": "",
+    "parameter_set": {},
     "polygons": {
         "9a68940d-f496-48d6-bdcf-9d2b030c2f30": {
             "layer": 40,
@@ -224,6 +238,23 @@
     },
     "tags": [],
     "texts": {
+        "cf596c53-0652-42bb-8c47-51b2abcb523e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    1750000,
+                    1350000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 0
+        },
         "e8e117a5-aba2-40e3-bc4f-0fb1bd3be719": {
             "font": "simplex",
             "from_smash": false,

@@ -1,13 +1,5 @@
 {
-    "grid_settings": {
-        "mode": "square",
-        "origin_x": 0,
-        "origin_y": 0,
-        "spacing_square": 2540000,
-        "spacing_x": 1250000,
-        "spacing_y": 1250000
-    },
-    "grid_spacing": 2540000,
+    "grid_spacing": 100000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {
@@ -56,15 +48,15 @@
                 "visible": true
             },
             "20": {
-                "display_mode": "fill_only",
-                "visible": false
+                "display_mode": "fill",
+                "visible": true
             },
             "30": {
                 "display_mode": "fill",
                 "visible": false
             },
             "40": {
-                "display_mode": "hatch",
+                "display_mode": "outline",
                 "visible": true
             },
             "50": {
