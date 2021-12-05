@@ -18,7 +18,7 @@
         false,
         "Atmel"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "9fe5d9db-a31e-4405-bebd-2e0ed62f9f9e",
     "package": "be931f54-af72-42ee-a038-b6d410116c95",
     "pad_map": {
         "03112829-1f22-4b71-acf2-d314585fdcdb": {
@@ -204,6 +204,6 @@
     "uuid": "03c16203-e5cb-47b5-8ade-2bdea262f4f3",
     "value": [
         false,
-        ""
+        "ATMEGA1284"
     ]
 }

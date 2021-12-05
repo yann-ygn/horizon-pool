@@ -806,7 +806,42 @@
     },
     "polygons": {},
     "text_placements": {},
-    "texts": {},
+    "texts": {
+        "6d7a394a-4ff5-4879-b6c9-80192faa3590": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    13750000,
+                    20000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "c5d81d3c-50d0-4adb-a73c-9f6c0c9f3e60": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    13750000,
+                    -20000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
     "type": "symbol",
     "unit": "11936393-db18-45af-9438-2e0d1d4e1a54",
     "uuid": "a43aaa02-263d-452a-b45f-f34ed832fec3"
