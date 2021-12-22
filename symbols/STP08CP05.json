@@ -68,7 +68,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 -8750000
             ]
         },
@@ -85,7 +85,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
+                -12500000,
                 5000000
             ]
         },
@@ -102,7 +102,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 8750000
             ]
         },
@@ -119,7 +119,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
+                -12500000,
                 12500000
             ]
         },
@@ -136,7 +136,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
+                -12500000,
                 -12500000
             ]
         },
@@ -153,7 +153,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 3750000
             ]
         },
@@ -170,8 +170,8 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
-                -5000000
+                -12500000,
+                -7500000
             ]
         },
         "3c7a6b5d-505c-483f-a935-b911b1fb39d3": {
@@ -187,7 +187,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 -1250000
             ]
         },
@@ -204,7 +204,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
+                -12500000,
                 2500000
             ]
         },
@@ -221,7 +221,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 6250000
             ]
         },
@@ -238,7 +238,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 -6250000
             ]
         },
@@ -255,7 +255,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 -3750000
             ]
         },
@@ -272,7 +272,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                10000000,
+                12500000,
                 1250000
             ]
         },
@@ -289,7 +289,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
+                -12500000,
                 0
             ]
         },
@@ -306,8 +306,8 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
-                -7500000
+                -12500000,
+                -5000000
             ]
         },
         "fa3b4a4f-5029-418a-b747-4543c0c7b7fe": {
@@ -323,7 +323,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -10000000,
+                -12500000,
                 7500000
             ]
         }
