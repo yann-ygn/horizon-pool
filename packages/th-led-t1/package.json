@@ -6,51 +6,104 @@
             "layer": 20,
             "to": "8279fa1c-75aa-4cde-bdec-8e2c8e588169",
             "width": 50000
+        },
+        "e6582590-de8c-4e7b-b117-491a856bb5e1": {
+            "center": "108ce35b-e612-480b-a3b0-c4adfd598600",
+            "from": "4bcfbeb1-ebeb-4aaa-9cb4-30af68a988a5",
+            "layer": 50,
+            "to": "bd770bd9-3155-445c-8284-23acd3c62a62",
+            "width": 0
         }
     },
     "default_model": "f060a25f-c4ed-4f2e-89cb-65334fcaa2e4",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1250000,
+                1250000
+            ],
+            "spacing_square": 100000
+        },
+        "grids": {}
+    },
     "junctions": {
         "046992e9-f398-4cec-b56a-6bd88dd1ca3e": {
             "position": [
                 -500000,
-                -1500000
+                -1650000
             ]
         },
         "04c298d6-7a8a-44dc-940d-c19dbf7a4515": {
             "position": [
                 1000000,
-                -1500000
+                -1650000
+            ]
+        },
+        "108ce35b-e612-480b-a3b0-c4adfd598600": {
+            "position": [
+                -1000000,
+                -150000
+            ]
+        },
+        "4bcfbeb1-ebeb-4aaa-9cb4-30af68a988a5": {
+            "position": [
+                1000000,
+                -1650000
             ]
         },
         "8279fa1c-75aa-4cde-bdec-8e2c8e588169": {
             "position": [
                 -1000000,
-                -1500000
+                -1650000
             ]
         },
         "86fc4bf5-1fcc-4606-89f9-c97e26fedb2e": {
             "position": [
                 1000000,
-                -1500000
+                -1650000
             ]
         },
         "9969e188-6af7-4500-b332-3dd67c0ab8c6": {
             "position": [
                 -1000000,
-                0
+                -150000
             ]
         },
         "a0594586-f15f-4a97-b6bf-7441821a767d": {
             "position": [
                 500000,
-                -1500000
+                -1650000
+            ]
+        },
+        "bd770bd9-3155-445c-8284-23acd3c62a62": {
+            "position": [
+                -1000000,
+                -1650000
+            ]
+        },
+        "d2f07003-63fc-487a-879b-62207586e1c6": {
+            "position": [
+                -1000000,
+                -1650000
             ]
         },
         "f3504e74-3f11-4bac-82ca-6895323f3b8b": {
             "position": [
                 -1000000,
-                -1500000
+                -1650000
+            ]
+        },
+        "f4da0bfc-37d1-4415-960a-c25b88fabf72": {
+            "position": [
+                1000000,
+                -1650000
             ]
         }
     },
@@ -61,6 +114,12 @@
             "layer": 20,
             "to": "046992e9-f398-4cec-b56a-6bd88dd1ca3e",
             "width": 50000
+        },
+        "e36f4fbb-26cb-4b22-893c-9289dc90d7ed": {
+            "from": "d2f07003-63fc-487a-879b-62207586e1c6",
+            "layer": 50,
+            "to": "f4da0bfc-37d1-4415-960a-c25b88fabf72",
+            "width": 0
         },
         "e86ef0cb-5673-48f0-931c-ddcad03854b7": {
             "from": "04c298d6-7a8a-44dc-940d-c19dbf7a4515",
@@ -131,7 +190,7 @@
                     "arc_reverse": false,
                     "position": [
                         -400000,
-                        350000
+                        340000
                     ],
                     "type": "line"
                 },
@@ -143,7 +202,7 @@
                     "arc_reverse": false,
                     "position": [
                         400000,
-                        350000
+                        340000
                     ],
                     "type": "line"
                 },
@@ -155,7 +214,7 @@
                     "arc_reverse": false,
                     "position": [
                         0,
-                        -350000
+                        -360000
                     ],
                     "type": "line"
                 }

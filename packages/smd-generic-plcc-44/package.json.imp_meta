@@ -37,11 +37,11 @@
             },
             "0": {
                 "display_mode": "fill",
-                "visible": true
+                "visible": false
             },
             "10": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "100": {
                 "display_mode": "outline",

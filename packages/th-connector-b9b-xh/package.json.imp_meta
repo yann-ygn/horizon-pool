@@ -1,5 +1,5 @@
 {
-    "grid_spacing": 2500000,
+    "grid_spacing": 100000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {

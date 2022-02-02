@@ -48,15 +48,15 @@
                 "visible": true
             },
             "20": {
-                "display_mode": "fill_only",
+                "display_mode": "fill",
                 "visible": true
             },
             "30": {
                 "display_mode": "fill",
-                "visible": true
+                "visible": false
             },
             "40": {
-                "display_mode": "hatch",
+                "display_mode": "outline",
                 "visible": true
             },
             "50": {

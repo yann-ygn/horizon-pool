@@ -2,6 +2,22 @@
     "arcs": {},
     "default_model": "9c552533-faf7-4f72-8e4c-19cf4b01f0ce",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1250000,
+                1250000
+            ],
+            "spacing_square": 25000
+        },
+        "grids": {}
+    },
     "junctions": {
         "1209b9dc-7967-42c1-b93f-160625abf54d": {
             "position": [
@@ -445,6 +461,48 @@
                 }
             ]
         },
+        "b4c622a6-ceb3-44e7-b3d4-2351e29f41b3": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1475000,
+                        2450000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1475000,
+                        -2450000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1475000,
+                        2450000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
         "fc2766d0-4d77-471b-94f6-1f4a0aab32b5": {
             "layer": 50,
             "parameter_class": "",
@@ -523,7 +581,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -1275000,
+                    -1200000,
                     -100000
                 ]
             },

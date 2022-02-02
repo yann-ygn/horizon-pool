@@ -48,7 +48,7 @@
                 "visible": true
             },
             "20": {
-                "display_mode": "fill_only",
+                "display_mode": "fill",
                 "visible": true
             },
             "30": {
@@ -57,7 +57,7 @@
             },
             "40": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "50": {
                 "display_mode": "outline",
