@@ -49,7 +49,7 @@
             },
             "20": {
                 "display_mode": "fill_only",
-                "visible": true
+                "visible": false
             },
             "30": {
                 "display_mode": "fill",
@@ -57,7 +57,7 @@
             },
             "40": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "50": {
                 "display_mode": "outline",
