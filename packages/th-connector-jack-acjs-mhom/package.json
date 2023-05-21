@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "75f7f75c-6aa2-4c24-a345-e26d2218e3d3",
     "dimensions": {
         "0c9b8109-28ae-4f95-bcf4-7324a93c7eda": {
             "label_distance": 28090000,
@@ -165,6 +165,12 @@
                 3310000
             ]
         },
+        "8ff3f951-1b51-4216-a371-f9f0236f7efe": {
+            "position": [
+                -10700000,
+                2560000
+            ]
+        },
         "ade429cd-f00f-4aae-b5fd-29a1d73bdc38": {
             "position": [
                 -10700000,
@@ -180,6 +186,12 @@
     },
     "keepouts": {},
     "lines": {
+        "10a7541f-b0d9-47a3-868c-7e877c6594d1": {
+            "from": "8ff3f951-1b51-4216-a371-f9f0236f7efe",
+            "layer": 20,
+            "to": "0d601c05-3bb1-42ba-ade8-17de89529836",
+            "width": 50000
+        },
         "23ce9b3c-d8c4-41a2-b7c7-ef2a87c9c41a": {
             "from": "852fee36-9e2f-4e33-a787-0c9a0fe78824",
             "layer": 20,
@@ -196,6 +208,12 @@
             "from": "1fe77095-0c50-4d38-9173-267164be59d5",
             "layer": 20,
             "to": "42339a2c-0ec7-420c-8b67-49e12a5742a2",
+            "width": 50000
+        },
+        "691f8740-8bd9-4a1f-a966-3e0b36103b00": {
+            "from": "5d2109f0-b082-48b1-8471-635ca170bea4",
+            "layer": 20,
+            "to": "8ff3f951-1b51-4216-a371-f9f0236f7efe",
             "width": 50000
         },
         "74a0e7f0-452b-410b-9fc9-1349f571e08f": {
@@ -234,6 +252,12 @@
             "to": "25d33e49-49f9-4fc7-a195-73998c52bc17",
             "width": 50000
         },
+        "e858acea-9a33-4c63-8276-02e7426dcae6": {
+            "from": "8ff3f951-1b51-4216-a371-f9f0236f7efe",
+            "layer": 20,
+            "to": "1816a3b1-fe08-408f-96f3-5296fffa409d",
+            "width": 50000
+        },
         "e9f02abd-50a4-4389-ac55-f58895bbcb1b": {
             "from": "b17d1028-0efc-47c6-8b6e-d0ff56b78c15",
             "layer": 20,
@@ -248,7 +272,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "75f7f75c-6aa2-4c24-a345-e26d2218e3d3": {
+            "filename": "3d_models/J_JACK_STEREO_ACJS_MHOM.step",
+            "pitch": 49152,
+            "roll": 49152,
+            "x": 10700000,
+            "y": -1400000,
+            "yaw": 0,
+            "z": 6500000
+        }
+    },
     "name": "th-connector-jack-acjs-mhom",
     "pads": {
         "1b13d532-a90c-439c-83a4-f974cedc9945": {
@@ -698,7 +732,7 @@
             },
             "size": 1000000,
             "text": "$RD",
-            "width": 150000
+            "width": 0
         }
     },
     "type": "package",
