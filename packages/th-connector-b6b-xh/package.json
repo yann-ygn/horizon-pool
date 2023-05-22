@@ -1,21 +1,7 @@
 {
     "arcs": {},
     "default_model": "fe485e42-b3cb-470e-a144-7130edabb5bd",
-    "dimensions": {
-        "759ee36d-92a2-4ef8-8db3-5a1e89292204": {
-            "label_distance": 1009787,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                6000000,
-                0
-            ],
-            "p1": [
-                8450000,
-                -10000
-            ]
-        }
-    },
+    "dimensions": {},
     "grid_settings": {
         "current": {
             "mode": "square",
