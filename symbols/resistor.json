@@ -166,7 +166,7 @@
         },
         "270m": {
             "35099bf5-0e81-401a-aa96-d1112f12d918": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": true,
                 "shift": [
                     1250000,
@@ -174,7 +174,7 @@
                 ]
             },
             "fc82ac00-1f07-4009-9129-6e1827d3dc5c": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": true,
                 "shift": [
                     -1250000,
@@ -184,7 +184,7 @@
         },
         "270n": {
             "35099bf5-0e81-401a-aa96-d1112f12d918": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": true,
                 "shift": [
                     1250000,
@@ -192,7 +192,7 @@
                 ]
             },
             "fc82ac00-1f07-4009-9129-6e1827d3dc5c": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": true,
                 "shift": [
                     -1250000,
@@ -275,5 +275,6 @@
     },
     "type": "symbol",
     "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e",
-    "uuid": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73"
+    "uuid": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
+    "version": 1
 }
