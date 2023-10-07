@@ -1,0 +1,74 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {
+        "13c12523-b410-481f-9d6b-5a5852170670": {
+            "label_distance": 3800000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                -2100000,
+                0
+            ],
+            "p1": [
+                0,
+                0
+            ]
+        },
+        "5a5da416-98a6-43b3-9f87-39a51c170199": {
+            "label_distance": 3800000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                2100000,
+                0
+            ],
+            "p1": [
+                0,
+                0
+            ]
+        }
+    },
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 100000
+        },
+        "grids": {}
+    },
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "",
+    "pads": {},
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "fe6584b6-6ec3-4ca0-8573-74bd963d3e09"
+}
